@@ -1,0 +1,5 @@
+{
+  "name": "Excel 表格合并工具",
+  "description": "一个强大的工具，用于合并多个格式相同的 Excel 文件，自动对相应单元格的数值进行求和。包含 AI 智能数据分析功能。",
+  "requestFramePermissions": []
+}
